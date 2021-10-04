@@ -1,1 +1,14 @@
 size(600,600);
+fill(255, 0, 0, 100);
+ellipse(200, 200, 400, 400);
+fill(0, 0, 255, 100);
+ellipse(400, 200, 400, 400);
+fill(0, 255, 0, 100);
+ellipse(300, 400, 400, 400);
+textSize(50);
+fill(0, 0, 0, 255);
+text("Ellie", 250, 300);
+textSize(20);
+text("I love my dog", 70, 200);
+text("I am creative", 400, 200);
+text("I love to run", 250, 500);
